@@ -1,0 +1,44 @@
+body
+{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    color: rgb(103, 160, 247);
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 100px;
+    text-shadow: 2px 2px blue;
+}
+
+h2
+{
+    color: rgb(13, 165, 212);
+    text-shadow: 1px 1px rgb(29, 80, 175);
+    font-family: 'Patua One', cursive;
+    font-size: 50px;
+}
+
+div
+{
+    font-family: 'Mali', cursive;
+    font-weight: 1000;
+    color: rgb(10, 48, 117);
+    font-size: 25px;
+}
+
+button
+{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(235, 242, 255);
+    background-color: cornflowerblue;
+}
+
+h4
+{
+    color: rgb(13, 165, 212);
+    text-shadow: 1px 1px rgb(29, 80, 175);
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}
